@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Gallery 1</title>
+  <desc id="desc">Placeholder image for classroom learning.</desc>
+  <rect width="1200" height="900" fill="#edf7fb"/>
+  <rect x="90" y="120" width="1020" height="660" rx="32" fill="#ffffff"/>
+  <rect x="150" y="190" width="900" height="220" rx="26" fill="#dfeff9"/>
+  <circle cx="290" cy="290" r="55" fill="#cfe3e9"/>
+  <rect x="230" y="370" width="120" height="180" rx="18" fill="#a8d7d3"/>
+  <circle cx="560" cy="290" r="55" fill="#cfe3e9"/>
+  <rect x="500" y="370" width="120" height="180" rx="18" fill="#a8d7d3"/>
+  <circle cx="830" cy="290" r="55" fill="#cfe3e9"/>
+  <rect x="770" y="370" width="120" height="180" rx="18" fill="#a8d7d3"/>
+  <rect x="180" y="520" width="840" height="140" rx="22" fill="#edf6f8"/>
+  <text x="600" y="610" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#194f76">Classroom Learning</text>
+</svg>

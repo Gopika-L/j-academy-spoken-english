@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Learning experience placeholder</title>
+  <desc id="desc">Placeholder illustration of students learning speaking and communication skills.</desc>
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f6fbff"/>
+      <stop offset="100%" stop-color="#dff2ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#grad)"/>
+  <rect x="80" y="130" width="1040" height="640" rx="30" fill="#ffffff" stroke="#dfeaf0"/>
+  <rect x="170" y="220" width="260" height="260" rx="24" fill="#edf8fb"/>
+  <circle cx="290" cy="300" r="46" fill="#cfe4eb"/>
+  <path d="M235 430c18-42 47-66 86-66s68 24 86 66v90H235v-90Z" fill="#9dd0cf"/>
+  <rect x="500" y="210" width="470" height="70" rx="18" fill="#ebf6f4"/>
+  <rect x="500" y="310" width="470" height="70" rx="18" fill="#ebf6f4"/>
+  <rect x="500" y="410" width="470" height="70" rx="18" fill="#ebf6f4"/>
+  <rect x="500" y="510" width="360" height="70" rx="18" fill="#ebf6f4"/>
+  <circle cx="540" cy="245" r="15" fill="#9acfc8"/>
+  <rect x="570" y="235" width="220" height="18" rx="9" fill="#afd5d3"/>
+  <circle cx="540" cy="345" r="15" fill="#9acfc8"/>
+  <rect x="570" y="335" width="200" height="18" rx="9" fill="#afd5d3"/>
+  <circle cx="540" cy="445" r="15" fill="#9acfc8"/>
+  <rect x="570" y="435" width="260" height="18" rx="9" fill="#afd5d3"/>
+  <circle cx="540" cy="545" r="15" fill="#9acfc8"/>
+  <rect x="570" y="535" width="220" height="18" rx="9" fill="#afd5d3"/>
+  <text x="600" y="705" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#174f75">Spoken English Skills</text>
+</svg>

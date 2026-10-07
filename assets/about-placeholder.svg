@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">About academy placeholder</title>
+  <desc id="desc">Placeholder illustration showing learners speaking English in a classroom.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7fbfe"/>
+      <stop offset="100%" stop-color="#dfeef0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect x="75" y="110" width="1050" height="680" rx="30" fill="#ffffff" stroke="#dfe5eb"/>
+  <rect x="150" y="210" width="360" height="360" rx="28" fill="#edf7fb"/>
+  <circle cx="270" cy="300" r="52" fill="#cfe4e7"/>
+  <path d="M205 500c22-50 54-76 92-76s72 26 92 76v105H205V500Z" fill="#8ec7c7"/>
+  <rect x="560" y="240" width="430" height="110" rx="18" fill="#eaf2f8"/>
+  <rect x="560" y="390" width="430" height="110" rx="18" fill="#eaf2f8"/>
+  <rect x="560" y="540" width="250" height="90" rx="18" fill="#eaf2f8"/>
+  <circle cx="620" cy="295" r="30" fill="#d7eced"/>
+  <rect x="660" y="280" width="220" height="28" rx="14" fill="#b6dfe1"/>
+  <rect x="660" y="334" width="160" height="18" rx="9" fill="#cfeae9"/>
+  <circle cx="620" cy="445" r="30" fill="#d7eced"/>
+  <rect x="660" y="430" width="220" height="28" rx="14" fill="#b6dfe1"/>
+  <rect x="660" y="484" width="180" height="18" rx="9" fill="#cfeae9"/>
+  <text x="600" y="705" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#174f75">Learn. Practice. Speak with Confidence.</text>
+</svg>
